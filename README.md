@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfeituri
 - 👀 I’m interested in ios development and learning how to write elegant and timeless code!
-- 🌱 I’m currently learning swift and javascript
+- 🌱 I’m currently learning swift, c++, and javascript
 - 💞️ I’m looking to collaborate on apps!
 - 📫 How to reach me midofeituri@gmail.com
 
