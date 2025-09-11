@@ -1,4 +1,4 @@
-# Welcome to my github! 👋
+# Welcome to my github! 
 
 My name is Mohamed and im really interested in mobile development and actually quit my full time job to go back to school for my computer science degree so I can pursue a career as an iOS developer. Most of my time is spent working in Swift and Xcode, and I enjoy figuring out how to build apps with clean architecture and a smooth user experience.
 
