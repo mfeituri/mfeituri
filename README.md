@@ -1,4 +1,4 @@
-Hi, I’m Mohamed 👋
+# Hi, I’m Mohamed 👋
 
 I’m really interested in mobile development and actually quit my full time job to go back to school for my computer science degree so I can pursue a career as an iOS developer. Most of my time is spent working in Swift and Xcode, and I enjoy figuring out how to build apps with clean architecture and a smooth user experience.
 
@@ -8,7 +8,7 @@ Right now, I’m focused on growing as an iOS developer and working toward build
 
 I’m always learning and never perfect, and I think that’s what makes me a great learner and student.
 
-Here are some of my skills & tools:
+# Here are some of my skills & tools:
 
 Languages: Swift, Kotlin, C, Python
 
