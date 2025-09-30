@@ -4,9 +4,9 @@ My name is Mohamed and im really interested in mobile development and quit my fu
 
 I like learning about app design and how to create interfaces that feel simple and minimal, but still powerful. Recently I’ve been diving into SwiftUI and architecture patterns like MVVM, always trying to improve the way I structure my projects.
 
-Right now, I’m focused on growing as an iOS developer and working toward building real world apps that people actually use... and hopefully making an impact that way :D
+Right now, I’m focused on growing as an iOS/Android developer and working toward building real world apps that people actually use... and hopefully making an impact that way :D
 
-I’m always learning and never perfect, and I think that’s what makes me a great learner and student.
+I’m always learning and never perfect, and I think that’s what makes me a great student.
 
 # Here are some of my skills & tools:
 
